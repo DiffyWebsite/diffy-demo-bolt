@@ -15,7 +15,7 @@ export default function Home() {
             </p>
             <a
               href="#contact"
-              className="inline-flex items-center px-6 py-3 border-2 border-white text-white rounded-md hover:bg-white hover:text-blue-600 transition-colors"
+              className="inline-flex items-center px-3 py-2 border-2 border-white text-white rounded-md hover:bg-white hover:text-blue-600 transition-colors"
             >
               Get Started
               <ArrowRight className="ml-2 h-5 w-5" />
